@@ -14,6 +14,22 @@ This repository contains my configuration files for various components of my des
 - **kitty.conf**: Configuration file Kitty terminal.
 - **purple1.jpg**: My wallpaper.
 
+## Programs that i use 
+
+- auto-cpufreq
+- dmenu
+- dwm
+- dwmblocks
+- st
+- feh
+- firefox
+- kitty
+- nvim
+- p3x-onenote
+- picom
+- scrot
+- thunar
+
 ## Disclaimer
 
 Note: These configurations have been made specifically for my ThinkPad T480.
