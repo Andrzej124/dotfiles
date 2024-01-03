@@ -14,7 +14,7 @@ This repository contains my configuration files for various components of my des
 - **kitty.conf**: Configuration file Kitty terminal.
 - **purple1.jpg**: My wallpaper.
 
-## Programs that i use 
+## Software that i use 
 
 - auto-cpufreq
 - dmenu
@@ -24,7 +24,7 @@ This repository contains my configuration files for various components of my des
 - feh
 - firefox
 - kitty
-- nvim
+- neovim
 - p3x-onenote
 - picom
 - scrot
