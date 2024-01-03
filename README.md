@@ -2,7 +2,7 @@
 
 This repository contains my configuration files for various components of my desktop environment, including DWM, ST, Dmenu, Dwmblocks, auto-cpufreq, picom, .xinitrc and my wallpaper.
 
-## Included Files
+## Important Files
 
 - **dwm/config.def.h**: Main configuration file for DWM.
 - **st/config.def.h**: Configuration file for ST.
