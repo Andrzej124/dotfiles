@@ -11,6 +11,7 @@ This repository contains my configuration files for various components of my des
 - **auto-cpufreq.conf**: Configuration file for Auto-cpufreq.
 - **.xinitrc**: Configuration file executed when starting the X Window System.
 - **picom.conf.example**: Configuration file for Picom.
+- **kitty.conf**: Configuration file Kitty terminal.
 - **purple1.jpg**: My wallpaper.
 
 ## Disclaimer
