@@ -34,3 +34,11 @@ This repository contains my configuration files for various components of my des
 
 Note: These configurations have been made specifically for my ThinkPad T480.
 While they may work well on other devices, certain adjustments might be necessary depending on your hardware and preferences.
+
+## Gallery
+
+![Screenshot 1](https://github.com/Andrzej124/dotfiles/blob/main/gallery/2024-01-03-205550_1920x1080_scrot.png)
+
+![Screenshot 2](https://github.com/Andrzej124/dotfiles/blob/main/gallery/2024-01-03-210120_1920x1080_scrot.png)
+
+![Screenshot 3](https://github.com/Andrzej124/dotfiles/blob/main/gallery/2024-01-03-205449_1920x1080_scrot.png)
