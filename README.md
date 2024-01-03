@@ -10,9 +10,8 @@ This repository contains my configuration files for various components of my des
 - **dwmblocks/config.def.h**: Configuration file for Dwmblocks.
 - **auto-cpufreq.conf**: Configuration file for Auto-cpufreq.
 - **.xinitrc**: Configuration file executed when starting the X Window System.
-- **dwmblocks/scripts/**: Directory for scripts used with Dwmblocks.
-- **picom.conf**: Configuration file for Picom.
-- **wallpaper.png**: My wallpaper.
+- **picom.conf.example**: Configuration file for Picom.
+- **purple1.jpg**: My wallpaper.
 
 ## Disclaimer
 
