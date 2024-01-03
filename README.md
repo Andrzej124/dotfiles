@@ -1,6 +1,6 @@
 # Dotfiles for DWM, ST, Dmenu, Dwmblocks, Auto-cpufreq, and .xinitrc
 
-This repository contains my configuration files for various components of my desktop environment, including DWM, ST, Dmenu, Dwmblocks, kitty, auto-cpufreq, picom, .xinitrc and my wallpaper.
+This repository contains my configuration files for various components of my desktop environment, including DWM, ST, Dmenu, Dwmblocks, Kitty, auto-cpufreq, picom, .xinitrc and my wallpaper.
 
 ## Important Files
 
